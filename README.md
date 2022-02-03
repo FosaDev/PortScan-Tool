@@ -1,5 +1,5 @@
 # PortScan-Python
-A litlle tool for scan de ports, this tool is made in Python 
+A litlle tool for scan the ports, this tool is made in Python 
  
 The requiriments for use this tool is have Python3 and have git in your computer
 
