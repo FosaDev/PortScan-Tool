@@ -1,11 +1,12 @@
-# Tool-EscaneoDePuertosPython
+# PortScan-Python
+A litlle tool for scan de ports, this tool is made in Python 
+ 
+The requiriments for use this tool is have Python3 and have git in your computer
 
-Una pequeña herramienta para escanear puertos hecha en python 
+```For use this tool use the next comand in your terminal: git clone https://github.com/FosaDev/Tool-EscaneoDePuertosPython.git```
 
-Los requisitos para usar este script es tener python3 y tener git instalado
+For use the tool use this comand in your terminal ```python EscaneoDePuertos.py```
 
-```Para Clonar la herramienta usa: git clone https://github.com/FosaDev/Tool-EscaneoDePuertosPython.git```
+After this the tool will ask you to type an IP and after this the tool will be to show the ports that are open
 
-Para usarla solamente coloque este comando en la terminal```python EscaneoDePuertos.py```
-
-Luego de esto le pedira ingresar la direccion IP y le empezara a mostrar los puertos que se encuentran abiertos 
+And that's it
