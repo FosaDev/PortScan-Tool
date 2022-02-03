@@ -19,4 +19,4 @@ def RevisionDePuertos(ip, ListaDePuertos):
 DireccionIp = input("Digite la direccion Ip: ")
 for i in range(65535):
     i += 1
-    RevisionDePuertos(DireccionIp, [i, i, i])
+    RevisionDePuertos(DireccionIp, [i])
